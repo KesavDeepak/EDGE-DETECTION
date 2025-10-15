@@ -103,15 +103,19 @@ plt.show()
 ```
 ## Output:
 ### SOBEL EDGE DETECTOR
+<img width="639" height="411" alt="image" src="https://github.com/user-attachments/assets/1088924a-3b2b-4a00-af82-17fd8c4d1d94" />
+<img width="639" height="411" alt="image" src="https://github.com/user-attachments/assets/3e1d7e0f-fb1f-4ffb-8a3f-bda09e10aef6" />
+<img width="639" height="411" alt="image" src="https://github.com/user-attachments/assets/53851c7c-eba3-4d4f-9e43-8318e32e2a80" />
 
-![output](./sobel.png)
 
 ### LAPLACIAN EDGE DETECTOR
-![output](./laplacian.png)
+<img width="639" height="411" alt="image" src="https://github.com/user-attachments/assets/8797be72-cc50-4fdd-9c39-7aaa8e13eaf0" />
+
 
 
 ### CANNY EDGE DETECTOR
-![output](./canny.png)
+<img width="639" height="411" alt="image" src="https://github.com/user-attachments/assets/08052bd8-ccad-4242-ad73-fe6a9654f1fa" />
+
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
